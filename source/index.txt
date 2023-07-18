@@ -54,7 +54,7 @@ Usage Examples
 --------------
 
 For fully runnable code snippets and explanations for common
-methods, see the :doc:`Usage Examples </usage-examples>` section.
+methods, see the :doc:`Usage Examples </usage-examples>` section. Here we go!!!
 
 Fundamentals
 ------------
