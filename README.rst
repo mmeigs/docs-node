@@ -1,5 +1,5 @@
 =================================
-MongoDB Node Driver Documentation
+MongoDB Node Driver Documentation - 
 =================================
 
 This repository contains documentation for the MongoDB Node Driver.
